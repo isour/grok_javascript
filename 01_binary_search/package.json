@@ -1,0 +1,8 @@
+{
+	"name": "binary_search",
+	"version": "0.0.1",
+	"author": "Buyanov K.M.",
+	"scripts": {
+		"start": "node index.js"
+	}
+}
